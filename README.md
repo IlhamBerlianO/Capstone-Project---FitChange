@@ -1,10 +1,10 @@
 # Capstone-Project-FitChange
 
 ## <p align="center">FitChange</p>
-### :---: Fostering Individual Transformation through Comprehensive Health and Calories Guidance with Exercise :---:
-### :---: Bangkit 2023 Batch 2 Capstone Team: _CH2-PS232_ :---:
+### <p align="center">Fostering Individual Transformation through Comprehensive Health and Calories Guidance with Exercise</p>
+### <p align="center">Bangkit 2023 Batch 2 Capstone Team: _CH2-PS232_</p>
 
-### Member 
+#### Members
 | Name                          | ID          | Path               | University                                    | Github            |
 |:-----------------------------:|:-----------:|:------------------:|:----------------------------------------------:|:------------------------------------------:|
 | Yunita Prameswari   | M284BSX1253  | Machine Learning | Universitas Negeri Surabaya   | -     |
