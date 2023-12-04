@@ -1,6 +1,6 @@
 # Capstone-Project-FitChange
 
-## :---: FitChange :---:
+## <center>FitChange</center>
 ### :---: Fostering Individual Transformation through Comprehensive Health and Calories Guidance with Exercise :---:
 ### :---: Bangkit 2023 Batch 2 Capstone Team: _CH2-PS232_ :---:
 
