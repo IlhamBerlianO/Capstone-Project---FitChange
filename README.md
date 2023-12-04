@@ -10,5 +10,5 @@
 | Rian Prasetio   | M324BSY0252  | Machine Learning | Universitas Tanjungpura   | -     |
 | Rayhan Qalby Ramadhan   | C296BSY3660  | Cloud Computing | Universitas Pembangunan Nasional Veteran Jawa Timur   | [Rayhan](https://github.com/rayhanrere008)     |
 | Ilham Berlian Oktavio   | C296BSY3840  | Cloud Computing | Universitas Pembangunan Nasional Veteran Jawa Timur   | [Ilham](https://github.com/IlhamBerlianO)    |
-| Nizar Maulana Arrasyid   | A296BSY2511  | Mobile Development | Universitas Pembangunan Nasional Veteran Jawa Timur   | -     |
-| Muhammad Najmi Arya Pradipta   | A296BSY2842  | Mobile Development | Universitas Pembangunan Nasional Veteran Jawa Timur   | -     |
+| Nizar Maulana Arrasyid   | A296BSY2511  | Mobile Development | Universitas Pembangunan Nasional Veteran Jawa Timur   | [Nizar](https://github.com/nizarui)     |
+| Muhammad Najmi Arya Pradipta   | A296BSY2842  | Mobile Development | Universitas Pembangunan Nasional Veteran Jawa Timur   | [Arya](https://github.com/gezije)     |
