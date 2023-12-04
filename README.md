@@ -5,7 +5,7 @@
 #### Members
 | Name                          | ID          | Path               | University                                    | Github            |
 |:-----------------------------:|:-----------:|:------------------:|:----------------------------------------------:|:------------------------------------------:|
-| Yunita Prameswari   | M284BSX1253  | Machine Learning | Universitas Negeri Surabaya   | -     |
+| Yunita Prameswari   | M284BSX1253  | Machine Learning | Universitas Negeri Surabaya   | [Yunita](https://github.com/yunitapramsx)     |
 | Rahmi Utami | M284BSX0126  | Machine Learning | Universitas Negeri Surabaya | -   |
 | Rian Prasetio   | M324BSY0252  | Machine Learning | Universitas Tanjungpura   | -     |
 | Rayhan Qalby Ramadhan   | C296BSY3660  | Cloud Computing | Universitas Pembangunan Nasional Veteran Jawa Timur   | [Rayhan](https://github.com/rayhanrere008)     |
