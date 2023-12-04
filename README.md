@@ -1,3 +1,9 @@
+<p align="center">
+
+![FitChange]([URL_Gambar](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmediabangsa.co.id%2Fbelajar-cloud-computing-di-bangkit-academy-2023-lewat-program-magang-dan-studi-independen-bersertifikat-msib%2F&psig=AOvVaw0Rhpj_V7T9zINs9hr60ziE&ust=1701747750223000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjgkcPu9IIDFQAAAAAdAAAAABAE))
+
+</p>
+
 # <p align="center">FitChange</p>
 ### <p align="center">Fostering Individual Transformation through Comprehensive Health and Calories Guidance with Exercise</p>
 ### <p align="center">Bangkit 2023 Batch 2 Capstone Team: _CH2-PS232_</p>
